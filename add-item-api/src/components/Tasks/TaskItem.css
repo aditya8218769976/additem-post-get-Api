@@ -1,0 +1,10 @@
+.li-style {
+  border-bottom: 1px solid #ccc;
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.li-style:last-of-type {
+  border-bottom: none;
+}
